@@ -1,0 +1,28 @@
+{
+  "SERVER_URL": "https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json",
+  "TABLE_CONFIG": {
+    "columns": [
+      {
+        "title": "Name",
+        "dataIndex": "name",
+        "key": "name"
+      },
+      {
+        "title": "Email",
+        "dataIndex": "email",
+        "key": "email"
+      },
+      {
+        "title": "Role",
+        "dataIndex": "role",
+        "key": "role"
+      }
+    ],
+    "tableRowCheckBoxRequired": true,
+    "tableRowEditRequired": true,
+    "tableRowDeleteRequired": true,
+    "tableRowsPerPage": 10,
+    "tableRowsUniqueIdentifier": "id",
+    "maxNoOfButtonsOnPagination": 5
+  }
+}

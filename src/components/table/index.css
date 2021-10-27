@@ -1,0 +1,21 @@
+.table-container {
+  width: 100% !important;
+  justify-items: left;
+  justify-content: left;
+  text-align: justify;
+  padding: 0%;
+}
+
+table {
+  width: 100%;
+
+  margin-top: 5px;
+}
+
+.inline-delete-pagination {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+}
