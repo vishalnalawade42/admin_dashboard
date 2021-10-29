@@ -1,6 +1,6 @@
 ## Admin UI
 
-An application used to fetch the user data from rest API and display in tabular format on the UI for admin activities such as Search User, Edit user or delete user. This has been built with React, hooks, JavaScript, and CSS. Also Admin can multi select the rows
+An application used to fetch the user data from rest API and display in tabular format on the UI for admin activities such as Search User, Edit user or delete user. This has been built with React, hooks, JavaScript, and CSS. Also Admin can multi select the rows.
 
 #### Screenshot :
 
